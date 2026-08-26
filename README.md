@@ -1,14 +1,8 @@
 # FGP Loyalty Program: Customer Segmentation, Profiling & CLV/Churn Analysis
 
-UNSW **MARK5822 — Marketing Analytics Tools** group project (2026)
-
-Team: Lily Lei (z5620411), Songyun Zhang (z5620255), Zhe Yang (z5459640),
-Yingying Zhang (z5521377), Zicheng Zhao (z5706210)
-
 > ⚠️ **Data note**: the FGP customer transaction/survey dataset was provided
 > by the course and is not included in this repository. It is **not**
-> uploaded here — see [Data](#data) below. This is also a group project;
-> confirm with teammates before making the repo public.
+> uploaded here — see [Data](#data) below.
 >
 > ⚠️ **Code note**: the original R scripts used to produce the analysis were
 > not retained outside the final presentation deck. The scripts in `R/` are
